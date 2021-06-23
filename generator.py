@@ -1,7 +1,8 @@
+from colorama import Fore, Style
+from math import ceil
 import os
 import sys
-from math import ceil
-from colorama import Fore, Style
+
 
 class Menu_generator:
 
